@@ -1,6 +1,6 @@
 {
-  "name": "drehimself/laravelgooglemaps",
-  "description": "Laravel Google Map package for 5.x. You can use all google map features in laravel.",
+  "name": "atrian/laravelgooglemaps",
+  "description": "Laravel Google Map package for 5.x. You can use all google map features in laravel. UPDATED: Laravel 7 support, strtolower replaced with mb_strtolower in geocache, gestureHandling Gmap option",
   "license": "MIT",
   "keywords": [
     "laravel",
